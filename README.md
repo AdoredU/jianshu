@@ -1,2 +1,2 @@
 # jianshu
-使用react+redux完成基本简书功能。
+使用react+redux完成简书基本功能。
